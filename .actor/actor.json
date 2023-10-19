@@ -1,0 +1,11 @@
+{
+	"actorSpecification": 1,
+	"name": "local-python",
+	"title": "Scrape single page in Python",
+	"description": "Scrape data from single page with provided URL.",
+	"version": "0.0",
+	"meta": {
+		"templateId": "python-start"
+	},
+	"dockerfile": "./Dockerfile"
+}
