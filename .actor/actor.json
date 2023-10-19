@@ -1,6 +1,6 @@
 {
 	"actorSpecification": 1,
-	"name": "local-python-apify",
+	"name": "local-python",
 	"title": "Scrape single page in Python",
 	"description": "Scrape data from single page with provided URL.",
 	"version": "0.0",
