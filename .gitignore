@@ -30,6 +30,6 @@ dmypy.json
 *.log
 
 # Added by Apify CLI
-# storage
-# node_modules
+storage
+node_modules
 .venv
